@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc666da4dfc24aa141c02b6643ea6e2e627df3bd9d7d6bf315379b3dda583e4cc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xc666da4dfc24aa141c02b6643ea6e2e627df3bd9d7d6bf315379b3dda583e4cc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Runescape pixel NFTs",
+  "SYMBOL": "RSNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 28500000000000000000,
+  "DISPLAY_COST": 28.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/runescape-pixel",
+  "SHOW_BACKGROUND": true
+}

@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Runescape pixel NFTs",
   "SYMBOL": "RSNFT",
-  "MAX_SUPPLY": 1000,
+  "MAX_SUPPLY": 960,
   "WEI_COST": 28500000000000000000,
   "DISPLAY_COST": 28.5,
   "GAS_LIMIT": 285000,

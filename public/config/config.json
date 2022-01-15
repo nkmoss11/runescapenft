@@ -12,7 +12,7 @@
   "WEI_COST": 28500000000000000000,
   "DISPLAY_COST": 28.5,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/runescape-pixel",
   "SHOW_BACKGROUND": true
 }

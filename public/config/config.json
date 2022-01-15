@@ -10,7 +10,7 @@
   "SYMBOL": "RSNFT",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 28500000000000000000,
-  "DISPLAY_COST": 15,
+  "DISPLAY_COST": 28.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/runescape-pixel",
